@@ -13,7 +13,7 @@ import certif5 from "@/public/certif5.png";
 import certif6 from "@/public/certif6.png";
 import certif7 from "@/public/certif7.png";
 import certif8 from "@/public/certif8.png";
-import certif8 from "@/public/certif9.png";
+import certif9 from "@/public/certif9.png";
 import React from "react";
 import { LuSchool, LuGraduationCap } from "react-icons/lu";
 
@@ -139,44 +139,31 @@ export const skills = [
 
 export const certifications = [
   {
-    title: "Data Science Professional Certificate",
-    issuer: "IBM",
     imageUrl: certif1,
   },
   {
-    title: "Machine Learning",
-    issuer: "DeepLearning.AI",
     imageUrl: certif2,
   },
   {
-    title: "Data Anlysis Track",
-    issuer: "UDACITY",
     imageUrl: certif3,
   },
   {
-    title: "Exploratory Data Analysis in Python",
-    issuer: "DataCamp",
     imageUrl: certif4,
   },
   {
-    title: "Preprocessing for Machine Learning in python",
-    issuer: "DataCamp",
     imageUrl: certif5,
   },
   {
-    title: "Pandas",
-    issuer: "Kaggle",
     imageUrl: certif6,
   },
   {
-    title: "Programming Essentials in C",
-    issuer: "Cisco",
     imageUrl: certif7,
   },
   {
-    title: "Front-End Development Track",
-    issuer: "UDACITY",
     imageUrl: certif8,
+  },
+  {
+    imageUrl: certif9,
   },
 ];
 
