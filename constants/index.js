@@ -13,6 +13,7 @@ import certif5 from "@/public/certif5.png";
 import certif6 from "@/public/certif6.png";
 import certif7 from "@/public/certif7.png";
 import certif8 from "@/public/certif8.png";
+import certif8 from "@/public/certif9.png";
 import React from "react";
 import { LuSchool, LuGraduationCap } from "react-icons/lu";
 
