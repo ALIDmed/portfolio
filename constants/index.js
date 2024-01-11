@@ -117,6 +117,8 @@ export const skills = [
       "NLP",
       "XGBoost",
       "Math and Statistics",
+      "Deep Learning",
+      "Computer Vision",
     ],
   },
   {
